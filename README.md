@@ -1,2 +1,3 @@
 Hi...
 Nothing to see here ;-;
+Devices: S21 Ultra U1 (Bootloader Locked), Nubia mini 5g (TP1803) (Unlocked bootloader)
